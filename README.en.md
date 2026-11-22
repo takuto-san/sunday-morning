@@ -31,9 +31,12 @@ For a single project, copy it into `.agents/skills/` or `.claude/skills/` inside
 
 ## Usage
 
-Provide the week and your news or saved links. You can use separate lists for news and discussion.
+After installation, start a new session:
 
-> Start Sunday Morning. Review this week's news by day, help me choose and refine discussion topics from my saved links, and host a conversation about them in English.
+- **Claude Code**: enter `/sunday-morning`. You can add the week or source material after the command.
+- **Codex**: open `/skills` and select `sunday-morning`, or invoke it explicitly with `$sunday-morning`. Codex does not register `/sunday-morning` as a custom slash command.
+
+Provide the week and your news or saved links. You can use separate lists for news and discussion. If they are missing, the host will ask for them when starting.
 
 ```text
 Week: 2026-01-05 to 2026-01-11
