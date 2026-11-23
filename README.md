@@ -1,6 +1,6 @@
 # サンデーモーニング
 
-<img src="skills/sunday-morning/assets/commentator.png" alt="フクロウの野球解説者を描いたオリジナルのプロジェクトアイコン" width="160">
+<img src="skills/sunday-morning/assets/commentator.png" alt="野球解説者を描いたドット絵のプロジェクトアイコン" width="160">
 
 [English](README.en.md)
 
