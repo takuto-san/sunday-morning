@@ -1,6 +1,6 @@
 # サンデーモーニング
 
-<img src="skills/sunday-morning/assets/harimoto.png" alt="張本さんをイメージしたドット絵のプロジェクトアイコン" width="160">
+<img src="skills/sunday-morning/assets/commentator.png" alt="フクロウの野球解説者を描いたオリジナルのプロジェクトアイコン" width="160">
 
 [English](README.en.md)
 
