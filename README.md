@@ -1,5 +1,7 @@
 # サンデーモーニング
 
+<img src="skills/sunday-morning/assets/harimoto.png" alt="張本さんをイメージしたドット絵のプロジェクトアイコン" width="160">
+
 [English](README.en.md)
 
 一週間のニュースをAI司会と番組形式で振り返るスキルです。ニュースを簡潔に紹介し、選んだ話題の論点を一緒に決めて対話します。
